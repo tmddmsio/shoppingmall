@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+psycopg[binary,pool]
+python-dotenv
+python-multipart
+pwdlib[argon2]
+cryptography
+pycryptodome
+pyjwt
+pwdlib
